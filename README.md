@@ -1,3 +1,13 @@
-## Fundamentos de Ciencia de Datos (ITISI 2016 BDP COM145)
+# Fundamentos de Ciencia de Datos 
 
-Sarahí Aguilar
+### Por Sarahí Aguilar
+
+Universidad Panamericana<br>
+ITISI 2016<br>
+BDP COM145<br>
+Primavera 2022
+
+
+
+
+
