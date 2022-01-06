@@ -1,11 +1,11 @@
 # Fundamentos de ciencia de datos 
 
-### Por Sarahí Aguilar
+### **Por Sarahí Aguilar**
 
-Universidad Panamericana<br>
-ITISI 2016<br>
-BDP COM145<br>
-Primavera 2022
+**Universidad Panamericana**<br>
+**ITISI 2016**<br>
+**BDP COM145**<br>
+**Primavera 2022**
 
 <br>
 
@@ -14,14 +14,14 @@ Primavera 2022
 <br>
 
 ## Índice
-* Acerca de
+* [Acerca de](#acerca-de)
     * Objetivo general
-    * Requerimientos 
-    * Evaluación 
+    * Requerimientos
+    * Evaluación
     * Fechas relevantes
-* Temario y material de clase
+* [Temario y material de clase](#temario-y-material-de-clase)
     * Bibliografía
-* Contacto
+* [Contacto](#contacto)
 
 <br>
 
@@ -59,11 +59,6 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 * Presentación de Proyecto final 1/2: martes, 24 de mayo
 * Última sesión: martes, 24 de mayo
 
-### Otras políticas
-* Cero tolerancia a las faltas de respeto
-* Cero tolerancia a la copia
-
-[Reglamento interno de la Facultad de Ingeniería](https://www.up.edu.mx/sites/default/files/ingenierdega_reglamento_interno_2017.pdf)
 
 <br>
 
@@ -85,3 +80,5 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 saraaguilar@up.edu.mx
 
 Foro de discusión abierta: [https://github.com/sarahiaguilar/fundamentos-cdd/discussions](https://github.com/sarahiaguilar/fundamentos-cdd/discussions)
+
+Horas de oficina: lunes y miércoles de 19:00 a 20:30
