@@ -56,7 +56,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 * Asueto por Día de las madres: martes, 10 de mayo
 * Fecha de entrega de Proyecto final: jueves, 19 de mayo
 * Presentación de Proyecto final 1/2: jueves, 19 de mayo
-* Presentación de Proyecto final 1/2: martes, 24 de mayo
+* Presentación de Proyecto final 2/2: martes, 24 de mayo
 * Última sesión: martes, 24 de mayo
 
 
@@ -77,7 +77,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 ## Contacto
 
-saraaguilar@up.edu.mx
+Correo electrónico: saraaguilar@up.edu.mx
 
 Foro de discusión abierta: [https://github.com/sarahiaguilar/fundamentos-cdd/discussions](https://github.com/sarahiaguilar/fundamentos-cdd/discussions)
 
