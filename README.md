@@ -36,12 +36,14 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 * Computadora con conexión a Internet.
 * Cuenta de Google o computadora con Python 2.7 o 3.X. 
 * Acceso a UP Moodle Cloud.
+* Programación (cualquier lenguaje). 
+* Estadística 101.
 
 ### Evaluación
 
 * Proyecto final (40%)
 * Examen parcial (20%)
-* Tareas (20%)
+* Ejercicios en clase (20%)
 * Show & tell (10%)
 * Participación (10%)
 
@@ -64,6 +66,38 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 ## Temario y material de clase
 
+Unidad 0. Introducción a la asignatura <br> 
+
+0.1. Introducción a la asignatura <br>
+
+<br> 
+
+Unidad 1. ¿Qué es la ciencia de datos <br> 
+
+1.1. Historia <br> 
+1.2. Estado del arte <br>
+1.3. Definción <br>
+1.4. Aplicaciones <br>
+
+<br>
+
+Unidad 2. ¿Qué es un dato? <br>
+
+2.1. Definición <br>
+2.2. Clasificaciones <br>
+
+<br>
+
+Unidad 3. Ciclo de vida de un proyecto de ciencia de datos <br>
+
+3.1. Conocimiento del contexto <br>
+3.2. Adquisición y comprensión de los datos <br>
+3.3. Mdodelado <br>
+3.4. Implementación <br>
+3.5. Validación <br>
+
+<br>
+
 ### Bibliografía
 
 [Bishop, Christopher M. 2006. *Pattern Recognition and Machine Learning (Information Science and Statistics)*. Secaucus, NJ, USA: Springer-Verlag New York, Inc.](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) 
@@ -72,6 +106,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 
 [James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 2014. *An Introduction to Statistical Learning: With Applications in R.* Springer Publishing Company, Incorporated.](https://www.statlearning.com/)
+
+[The Python Graph Gallery](https://www.python-graph-gallery.com/)
 
 <br>
 
