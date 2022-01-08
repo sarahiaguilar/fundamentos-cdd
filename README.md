@@ -66,14 +66,12 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 ## Temario y material de clase
 
-Unidad 0. Introducción a la asignatura <br> 
-
-0.1. Introducción a la asignatura <br>
+### Unidad 0. Introducción a la asignatura
+    0.1. Introducción a la asignatura <br>
 
 <br> 
 
-Unidad 1. ¿Qué es la ciencia de datos <br> 
-
+### Unidad 1. ¿Qué es la ciencia de datos
 1.1. Historia <br> 
 1.2. Estado del arte <br>
 1.3. Definción <br>
@@ -81,15 +79,13 @@ Unidad 1. ¿Qué es la ciencia de datos <br>
 
 <br>
 
-Unidad 2. ¿Qué es un dato? <br>
-
+### Unidad 2. ¿Qué es un dato? 
 2.1. Definición <br>
 2.2. Clasificaciones <br>
 
 <br>
 
-Unidad 3. Ciclo de vida de un proyecto de ciencia de datos <br>
-
+### Unidad 3. Ciclo de vida de un proyecto de ciencia de datos 
 3.1. Conocimiento del contexto <br>
 3.2. Adquisición y comprensión de los datos <br>
 3.3. Mdodelado <br>
