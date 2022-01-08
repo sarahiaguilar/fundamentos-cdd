@@ -67,7 +67,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 ## Temario y material de clase
 
 ### Unidad 0. Introducción a la asignatura
-    0.1. Introducción a la asignatura <br>
+0.1. Introducción a la asignatura <br>
 
 <br> 
 
