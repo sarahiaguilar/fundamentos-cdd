@@ -39,6 +39,7 @@
     * Unidad 14. Sistemas de recomendación
     * Unidad 15. Otras aplicaciones de ciencia de datos y machine learning
     * Bibliografía
+* [Lecturas](#lecturas)
 * [Contacto](#contacto)
 
 <br>
@@ -61,11 +62,10 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 ### Evaluación
 
 * Participación (10%)
-* Proyecto final (40%)
-* Examen parcial (20%)
 * Ejercicios en clase (20%)
+* Examen parcial (20%)
 * Show & tell (10%)
-
+* Proyecto final (40%)
 
 ### Fechas relevantes (sujetas a ajustes)
 
@@ -235,13 +235,38 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 <br>
 
-### Bibliografía
+### Referencias
+
+Bibliografía
 
 [Bishop, Christopher M. 2006. *Pattern Recognition and Machine Learning (Information Science and Statistics)*. Secaucus, NJ, USA: Springer-Verlag New York, Inc.](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) 
 
 [James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 2014. *An Introduction to Statistical Learning: With Applications in R.* Springer Publishing Company, Incorporated.](https://www.statlearning.com/)
 
+Documentación
+
+[Anaconda Individual Edition](https://docs.anaconda.com/anaconda/)
+
+[Jupyter](https://docs.jupyter.org/en/latest/)
+
+[NumPy](https://numpy.org/doc/)
+
+[Pandas](https://pandas.pydata.org/docs/)
+
+[Python 2.7](https://devdocs.io/python~2.7/)
+
+[Scikit-learn](https://scikit-learn.org/stable/)
+
+Otros
+
 [The Python Graph Gallery](https://www.python-graph-gallery.com/)
+
+<br>
+
+## Lecturas
+***
+
+[Instrucciones]()
 
 <br>
 
