@@ -53,11 +53,12 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 ### Requerimientos
 
-* Computadora con conexión a Internet.
-* Cuenta de Google o computadora con Python 2.7 o 3.X. 
-* Acceso a UP Moodle Cloud.
-* Programación (en cualquier lenguaje). 
-* Bases de Estadística.
+* Computadora con conexión a Internet
+* Cuenta de Google o computadora con Python 2.7 o 3.X
+* Acceso a UP Moodle Cloud
+* [Cuenta de GitHub](https://github.com/join)
+* Programación (en cualquier lenguaje)
+* Bases de Estadística
 
 ### Evaluación
 
