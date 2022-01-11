@@ -68,6 +68,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 * Show & tell (10%)
 * Proyecto final (40%)
 
+[Detalles de evaluación](https://docs.google.com/document/d/1vZLG2k9pWzAOy18HCTBe4hFaCdaBYN0gARAWkHw0fDw/edit?usp=sharing)
+
 ### Fechas relevantes (sujetas a ajustes)
 
 * Primera sesión: jueves, 20 de enero 
