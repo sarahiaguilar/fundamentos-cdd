@@ -113,9 +113,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 ### Unidad 3. Ciclo de vida de un proyecto 
 3.1. Conocimiento del contexto <br>
 3.2. Adquisición y comprensión de los datos <br>
-3.3. Mdodelado <br>
-3.4. Implementación <br>
-3.5. Validación
+3.4. Modelación <br>
+3.4. Despliegue <br>
 
 <br>
 
@@ -137,7 +136,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 <br>
 
 ### Unidad 6. Manipulación de datos
-6.1. Introducción a objetos de Pandas
+6.1. Introducción a objetos de Pandas <br>
 6.2. Lectura <br>
 6.3. Indexación y selección <br>
 6.4. Tratamiento de valores faltantes <br>
