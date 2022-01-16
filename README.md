@@ -96,6 +96,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 ### Unidad 0. Introducción a la asignatura
 0.1. Introducción a la asignatura
 
+[Slides](slides/unidad0-intro.pdf)
+
 <br> 
 
 ### Unidad 1. ¿Qué es la ciencia de datos
