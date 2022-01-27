@@ -111,6 +111,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 ### Unidad 2. ¿Qué es un dato? 
 2.1. Definición <br>
 2.2. Clasificaciones
+2.3. Almacenamiento en la nube
 
 <br>
 
