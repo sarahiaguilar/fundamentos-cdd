@@ -110,7 +110,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 ### Unidad 2. ¿Qué es un dato? 
 2.1. Definición <br>
-2.2. Clasificaciones
+2.2. Clasificaciones <br>
 2.3. Almacenamiento en la nube
 
 <br>
@@ -166,7 +166,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 <br>
 
 ### Unidad 8. Visualización de datos 
-8.1. Introducción al storytelling
+8.1. Introducción al storytelling <br>
 8.2. Gráficos de línes <br>
 8.3. Gráfico de dispersión <br>
 8.4. Visualización de errores <br>
