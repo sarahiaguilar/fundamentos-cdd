@@ -106,6 +106,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 1.3. Definción <br>
 1.4. Aplicaciones
 
+[Slides](slides/unidad1-ciencia-de-datos.pdf)
+
 <br>
 
 ### Unidad 2. ¿Qué es un dato? 
@@ -274,6 +276,9 @@ Otros
 * [Are we witnessing the dawn of post-theory science?](https://www.theguardian.com/technology/2022/jan/09/are-we-witnessing-the-dawn-of-post-theory-science?mc_cid=ef0816a9f7&mc_eid=1a4c893409)
 * [Elizabeth Holmes verdict: researchers share lessons for science](https://www.nature.com/articles/d41586-022-00006-9?mc_cid=05d4969a71&mc_eid=1a4c893409)
 * [A Project to Count Climate Crisis Deaths Has Surprising Results](https://www.wired.com/story/uk-climate-change-deaths/?mc_cid=5e4f0cb6c5&mc_eid=73db50aa26)
+* [The Most Frequently Used Emoji of 2021](https://home.unicode.org/emoji/emoji-frequency/?mc_cid=affdd2bba3&mc_eid=1a4c893409)
+* [What AI cannot do](https://bigthink.com/the-future/what-ai-cannot-do/)
+* [The Case Of The Abandoned Metrics](https://polimath.substack.com/p/the-case-of-the-abandoned-metrics) 
 
 <br>
 
