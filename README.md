@@ -115,13 +115,17 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 2.2. Clasificaciones <br>
 2.3. Almacenamiento en la nube
 
+[Slides](slides/unidad2-dato.pdf)
+
 <br>
 
 ### Unidad 3. Ciclo de vida de un proyecto 
-3.1. Conocimiento del contexto <br>
+3.1. Entendimiento del contexto <br>
 3.2. Adquisición y comprensión de los datos <br>
-3.4. Modelación <br>
+3.4. Modelado <br>
 3.4. Despliegue <br>
+
+[Slides](slides/unidad3-ciclo-de-vida.pdf)
 
 <br>
 
@@ -130,7 +134,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 4.2. Librerías fundamentales de Python <br>
 4.3. Ambientes de desarrollo de Python <br>
 4.4. Introducción a Anaconda <br>
-4.5. Jupyter
+4.5. Introducción a Jupyter
 
 <br>
 
