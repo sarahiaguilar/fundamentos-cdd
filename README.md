@@ -136,6 +136,9 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 4.4. Introducción a Anaconda <br>
 4.5. Introducción a Jupyter
 
+[Slides](slides/unidad4-entorno.pdf)
+[Notebook](notebooks/unidad4/basics.ipynb)
+
 <br>
 
 
