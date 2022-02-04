@@ -145,7 +145,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 ### Unidad 5. Tipos de datos en Python 
 5.1. Introducción a NumPy <br>
 5.2. Arreglos de NumPy <br>
-5.3. Arreglos de NumPy
+5.3. Operaciones en arreglos de NumPy
 
 <br>
 
