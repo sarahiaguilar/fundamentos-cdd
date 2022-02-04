@@ -286,6 +286,9 @@ Otros
 * [The Most Frequently Used Emoji of 2021](https://home.unicode.org/emoji/emoji-frequency/?mc_cid=affdd2bba3&mc_eid=1a4c893409)
 * [What AI cannot do](https://bigthink.com/the-future/what-ai-cannot-do/)
 * [The Case Of The Abandoned Metrics](https://polimath.substack.com/p/the-case-of-the-abandoned-metrics) 
+* [Findings Report on Compensation](https://dataforest.sequoia.com/reports/compensation/)
+* [When the Algorithm Is Your Boss](https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance?mc_cid=db6ab848ac&mc_eid=1a4c893409)
+* [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
 
 <br>
 
