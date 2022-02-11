@@ -147,7 +147,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 5.2. Arreglos de NumPy <br>
 5.3. Operaciones en arreglos de NumPy
 
-[Notebook](notebooks/unidad5//intro-a-numpy_to_complete.ipynb)
+[Notebook](notebooks/unidad5/intro_a_numpy_to_complete.ipynb)
 
 <br>
 
