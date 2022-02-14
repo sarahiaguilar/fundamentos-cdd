@@ -291,6 +291,9 @@ Otros
 * [Findings Report on Compensation](https://dataforest.sequoia.com/reports/compensation/)
 * [When the Algorithm Is Your Boss](https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance?mc_cid=db6ab848ac&mc_eid=1a4c893409)
 * [Competitive programming with AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
+* [Facebook Has a Superuser-Supremacy Problem](https://www.theatlantic.com/technology/archive/2022/02/facebook-hate-speech-misinformation-superusers/621617/?mc_cid=f0438ac444&mc_eid=73db50aa26)
+* [OpenAI Chief Scientist Says Advanced AI May Already Be Conscious](https://futurism.com/the-byte/openai-already-sentient)
+* [2021's 35 Innovators Under 35 List](https://www.technologyreview.com/innovators-under-35/2021/)
 
 <br>
 
