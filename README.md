@@ -147,7 +147,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 5.2. Arreglos de NumPy <br>
 5.3. Operaciones en arreglos de NumPy
 
-[Notebook](notebooks/unidad5/intro_a_numpy_to_complete.ipynb)
+[Notebook #1](notebooks/unidad5/intro_a_numpy.ipynb)
+[Notebook #2](notebooks/unidad5/operaciones_numpy.ipynb)
 
 <br>
 
@@ -161,6 +162,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 6.7. Ordenamiento <br>
 6.8. Reorganización <br> 
 6.9. High-performance Pandas
+
+[Notebook](notebooks/unidad6/intro_a_pandas.ipynb)
 
 <br>
 
