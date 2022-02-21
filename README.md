@@ -273,6 +273,8 @@ Documentación
 
 [Pandas](https://pandas.pydata.org/docs/)
 
+[PEP 8 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+
 [Python 2.7](https://devdocs.io/python~2.7/)
 
 [Scikit-learn](https://scikit-learn.org/stable/)
