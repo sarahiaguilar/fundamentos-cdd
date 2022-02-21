@@ -137,7 +137,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 4.5. Introducción a Jupyter
 
 [Slides](slides/unidad4-entorno.pdf) <br>
-[Notebook](notebooks/unidad4/basics.ipynb)
+[Notebook](notebooks/unidad4/basics.ipynb) <br>
+[Respuestas a ejercicios](notebooks/unidad4/basics.ipynb)
 
 <br>
 
@@ -297,6 +298,9 @@ Otros
 * [Facebook Has a Superuser-Supremacy Problem](https://www.theatlantic.com/technology/archive/2022/02/facebook-hate-speech-misinformation-superusers/621617/?mc_cid=f0438ac444&mc_eid=73db50aa26)
 * [OpenAI Chief Scientist Says Advanced AI May Already Be Conscious](https://futurism.com/the-byte/openai-already-sentient)
 * [2021's 35 Innovators Under 35 List](https://www.technologyreview.com/innovators-under-35/2021/)
+* [DeepMind’s AI can control superheated plasma inside a fusion reactor](https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=02-20-2022&mc_cid=02ac41f46a&mc_eid=73db50aa26)
+* [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/)
+* [Listen to an AI voice actor try and flirt with you](https://www.theverge.com/2022/2/17/22936978/ai-voice-speech-synthesis-audio-deepfake-sonantic-flirtation)
 
 <br>
 
