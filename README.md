@@ -157,12 +157,13 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 6.1. Introducción a objetos de Pandas <br>
 6.2. Lectura <br>
 6.3. Indexación y selección <br>
-6.4. Tratamiento de valores faltantes <br>
-6.5. Combinación de conjuntos de datos <br>
-6.6. Agregación y agrupamiento <br>
-6.7. Ordenamiento <br>
-6.8. Reorganización <br> 
-6.9. High-performance Pandas
+6.4. Setting <br>
+6.5. Tratamiento de valores faltantes <br>
+6.6. Combinación de conjuntos de datos <br>
+6.7. Agregación y agrupamiento <br>
+6.8. Ordenamiento <br>
+6.9. Reorganización <br> 
+6.10. High-performance Pandas
 
 [Notebook](notebooks/unidad6/intro_a_pandas.ipynb)
 
