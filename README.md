@@ -165,7 +165,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 6.9. Reorganización <br> 
 6.10. High-performance Pandas
 
-[Notebook #1](notebooks/unidad6/intro_a_pandas.ipynb)
+[Notebook #1](notebooks/unidad6/intro_a_pandas.ipynb) <br>
 [Notebook #2](notebooks/unidad6/preprocessing_to_complete.ipynb)
 
 <br>
