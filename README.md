@@ -311,6 +311,7 @@ Otros
 ***
 
 * [Archivo histórico de enero 2022 de sistema ECOBICI](datos/2022-01.csv)
+* [Esatus de ciclo estaciones a cierre del 30 de enero del 2022 de sistema ECOBICI](datos/2022-01-30_11_59_status_ciclo_estaciones.csv)
 
 <br>
 
