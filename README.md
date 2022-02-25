@@ -161,12 +161,11 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 6.5. Tratamiento de valores faltantes <br>
 6.6. Combinación de conjuntos de datos <br>
 6.7. Agregación y agrupamiento <br>
-6.8. Ordenamiento <br>
-6.9. Reorganización <br> 
-6.10. High-performance Pandas
+6.8. Reorganización <br> 
+6.9. Alto rendimiento
 
 [Notebook #1](notebooks/unidad6/intro_a_pandas.ipynb) <br>
-[Notebook #2](notebooks/unidad6/preprocessing_to_complete.ipynb)
+[Notebook #2](notebooks/unidad6/preprocessing.ipynb)
 
 <br>
 
