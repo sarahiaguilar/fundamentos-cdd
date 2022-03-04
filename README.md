@@ -39,6 +39,8 @@
     * Unidad 14. Sistemas de recomendación
     * Unidad 15. Otras aplicaciones de ciencia de datos y machine learning
     * Bibliografía
+* [Examen parcial](#examen-parcial)
+* [Conjuntos de datos](#conjuntos-de-datos)
 * [Lecturas](#lecturas)
 * [Contacto](#contacto)
 
@@ -282,6 +284,10 @@ Documentación
 
 Otros
 
+[NumPy Basics Cheat Sheet by BecomingHuman.AI](cheatsheets/numpy.png)
+
+[Data Wrangling with Pandas Cheat Sheet by BecomingHuman.AI](cheatsheets/numpy.png)
+
 [The Python Graph Gallery](https://www.python-graph-gallery.com/)
 
 <br>
@@ -304,6 +310,14 @@ Otros
 * [DeepMind’s AI can control superheated plasma inside a fusion reactor](https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=02-20-2022&mc_cid=02ac41f46a&mc_eid=73db50aa26)
 * [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/)
 * [Listen to an AI voice actor try and flirt with you](https://www.theverge.com/2022/2/17/22936978/ai-voice-speech-synthesis-audio-deepfake-sonantic-flirtation)
+
+<br>
+
+## Examen parcial
+***
+
+* [Planteamiento](test/examen_parcial.pdf)
+* [Solución](test/solucion_examen_parcial.ipynb)
 
 <br>
 
