@@ -335,5 +335,3 @@ Otros
 Correo electrónico: saraaguilar@up.edu.mx
 
 Foro de discusión abierta: [https://github.com/sarahiaguilar/fundamentos-cdd/discussions](https://github.com/sarahiaguilar/fundamentos-cdd/discussions)
-
-Horas de oficina: lunes y miércoles de 19:00 a 20:30
