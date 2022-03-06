@@ -29,7 +29,7 @@
     * Unidad 4. Entorno de desarrollo
     * Unidad 5. Tipos de datos en Python
     * Unidad 6. Manipulación de datos
-    * Unidad 7. Análisis exploratorio
+    * Unidad 7. Estadística descriptiva
     * Unidad 8. Visualización de datos
     * Unidad 9. Introducción a Machine Learning
     * Unidad 10. Aprendizaje supervisado
@@ -171,7 +171,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 <br>
 
-### Unidad 7. Análisis exploratorio
+### Unidad 7. Estadística descriptiva
 7.1. Distribuciones <br>
 7.2. Tratamiento de valores atípicos <br>
 7.3. Asimetría estadística <br>
