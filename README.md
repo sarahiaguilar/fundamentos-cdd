@@ -310,6 +310,9 @@ Otros
 * [DeepMind’s AI can control superheated plasma inside a fusion reactor](https://www.technologyreview.com/2022/02/16/1045470/deepminds-ai-can-control-superheated-plasma-inside-a-fusion-reactor/?truid=&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=&utm_content=02-20-2022&mc_cid=02ac41f46a&mc_eid=73db50aa26)
 * [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/)
 * [Listen to an AI voice actor try and flirt with you](https://www.theverge.com/2022/2/17/22936978/ai-voice-speech-synthesis-audio-deepfake-sonantic-flirtation)
+* [🐦@marktenenholtz's thread about Zillow's bad model evaluation](https://twitter.com/marktenenholtz/status/1496107516324835331)
+* [🐦@sapitonmix's thread about products and technologies with Ukrainian roots](https://twitter.com/sapitonmix/status/1496797920812843015)
+* [Google disables Maps traffic data in Ukraine to protect citizens](https://www.theverge.com/2022/2/28/22954426/google-disables-maps-traffic-data-in-ukraine-to-protect-citizens?mc_cid=5599a0899b&mc_eid=1a4c893409)
 
 <br>
 
