@@ -139,8 +139,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 4.5. Introducción a Jupyter
 
 [Slides](slides/unidad4-entorno.pdf) <br>
-[Notebook](notebooks/unidad4/basics.ipynb) <br>
-[Respuestas a ejercicios](notebooks/unidad4/basics.ipynb)
+[Notebook](notebooks/unidad4/basicos.ipynb) <br>
+[Respuestas a ejercicios](notebooks/unidad4/basicos_solucion.ipynb)
 
 <br>
 
@@ -167,7 +167,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 6.9. Alto rendimiento
 
 [Notebook #1](notebooks/unidad6/intro_a_pandas.ipynb) <br>
-[Notebook #2](notebooks/unidad6/preprocessing.ipynb)
+[Notebook #2](notebooks/unidad6/preprocesamiento.ipynb)
 
 <br>
 
@@ -320,7 +320,7 @@ Otros
 ***
 
 * [Planteamiento](test/examen_parcial.pdf)
-* [Solución](test/solucion_examen_parcial.ipynb)
+* [Solución](test/examen_parcial_solucion.ipynb)
 
 <br>
 
