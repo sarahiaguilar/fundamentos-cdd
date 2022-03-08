@@ -172,14 +172,18 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 <br>
 
 ### Unidad 7. Estadística descriptiva
-7.1. Distribuciones <br>
-7.2. Tratamiento de valores atípicos <br>
-7.3. Asimetría estadística <br>
-7.4. Distribución continua <br>
-7.5. Densidad <br>
-7.6. Estimación Kernel de la densidad <br>
-7.7. Medidas de tendencia central <br>
-7.8. Correlación
+7.1. Preprocesamiento de datos <br>
+7.2. Síntesis <br>
+7.3. Distribución (empírica) <br>
+7.4. Tratamiento de valores atípicos <br>
+7.5. Asimetría <br>
+7.6. Distribución continua <br>
+7.7. Densidad kernel <br>
+7.8. Estimación de la media, varianza y desviación estándar <br>
+7.9. Varianza <br>
+7.10. Correlación
+
+[Notebook](notebooks/unidad7/descriptiva_to_complete.ipynb)
 
 <br>
 
@@ -329,6 +333,10 @@ Otros
 
 * [Archivo histórico de enero 2022 de sistema ECOBICI](datos/2022-01.csv)
 * [Esatus de ciclo estaciones a cierre del 30 de enero del 2022 de sistema ECOBICI](datos/2022-01-30_11_59_status_ciclo_estaciones.csv)
+* [ventas](datos/ventas.csv)
+* [catalogo](datos/catalogo.csv)
+* [adult](datos/adult.data)
+* [birthdays](datos/birthdays.csv)
 
 <br>
 
