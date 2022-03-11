@@ -179,9 +179,6 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 7.5. Asimetría <br>
 7.6. Distribución continua <br>
 7.7. Densidad kernel <br>
-7.8. Estimación de la media, varianza y desviación estándar <br>
-7.9. Varianza <br>
-7.10. Correlación
 
 [Notebook](notebooks/unidad7/descriptiva_to_complete.ipynb)
 
