@@ -317,6 +317,12 @@ Otros
 * [🐦@marktenenholtz's thread about Zillow's bad model evaluation](https://twitter.com/marktenenholtz/status/1496107516324835331)
 * [🐦@sapitonmix's thread about products and technologies with Ukrainian roots](https://twitter.com/sapitonmix/status/1496797920812843015)
 * [Google disables Maps traffic data in Ukraine to protect citizens](https://www.theverge.com/2022/2/28/22954426/google-disables-maps-traffic-data-in-ukraine-to-protect-citizens?mc_cid=5599a0899b&mc_eid=1a4c893409)
+* [The short history of global living conditions and why it matters that we know it](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts)
+* [12 interesting things I learned studying the discovery of nature's laws](https://www.lesswrong.com/posts/uiyWHaTrz3ML7JqDX/12-interesting-things-i-learned-studying-the-discovery-of)
+* [Future Computers Will Be Radically Different](https://www.youtube.com/watch?v=GVsUOuSjvcg)
+* [Stanford Health Care appoints inaugural chief data scientist](https://med.stanford.edu/news/all-news/2022/03/nigam-shah-inaugural-chief-data-scientist-stanford-health-care.html)
+* [Companies with female leaders outperform those dominated by men, data shows](https://www.theguardian.com/business/2022/mar/06/companies-with-female-leaders-outperform-those-dominated-by-men-data-shows?mc_cid=a982260326&mc_eid=1a4c893409)
+* [Twitter Bot Highlights Gender Pay Gap One Company at a Time](https://www.nytimes.com/2022/03/09/business/pay-gap-international-womens-day-twitter.html)
 
 <br>
 
