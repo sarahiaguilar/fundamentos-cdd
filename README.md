@@ -194,10 +194,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 8.7. Subgráficos <br>
 8.8. Texto y anotaciones <br>
 8.9. Ticks <br>
-8.10. Temas de Matplotlib <br> 
-8.11. Seaborn <br>
-8.12. Introducción a otras herramientas de visualización de datos <br> 
-8.13. Estrategias
+
+[Slides](slides/unidad8-viz.pdf) 
 
 <br>
 
