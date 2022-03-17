@@ -287,6 +287,8 @@ Otros
 
 [Data Wrangling with Pandas Cheat Sheet by BecomingHuman.AI](cheatsheets/numpy.png)
 
+[Data visualization with ggplot2 Cheat Sheet by RStudio](cheatsheets/ggplot2.pdf)
+
 [The Python Graph Gallery](https://www.python-graph-gallery.com/)
 
 <br>
