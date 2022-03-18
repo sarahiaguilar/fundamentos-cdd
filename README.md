@@ -195,7 +195,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 8.8. Texto y anotaciones <br>
 8.9. Ticks <br>
 
-[Slides](slides/unidad8-viz.pdf) 
+[Slides](slides/unidad8-viz.pdf) <br>
+[Notebook](notebooks/unidad8/viz.ipynb) 
 
 <br>
 
