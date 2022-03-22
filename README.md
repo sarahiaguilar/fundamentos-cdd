@@ -91,10 +91,6 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 ## Temario y material de clase (sujetas a ajustes)
 ***
 
-<!--- [Slides]() <br> ---> 
-<!--- [Jupyter notebook]() <br> ---> 
-<!--- [Ejercicio]() <br> ---> 
-
 ### Unidad 0. Introducción a la asignatura
 0.1. Introducción a la asignatura
 
@@ -185,15 +181,16 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 <br>
 
 ### Unidad 8. Visualización de datos 
-8.1. Introducción al storytelling <br>
-8.2. Gráficos de línes <br>
-8.3. Gráfico de dispersión <br>
-8.4. Visualización de errores <br>
-8.5. Histogramas <br>
-8.6. Leyendas y colores <br>
-8.7. Subgráficos <br>
-8.8. Texto y anotaciones <br>
-8.9. Ticks <br>
+8.1. Introducción al storytelling en la visualización de datos <br>
+8.2. Introducción a plotnine y la gramática de gráficos <br>
+8.3. Estética <br>
+8.4. Objetos geométricos y transformaciones estadísticas <br>
+8.5. Escalas <br>
+8.6. Facetas <br>
+8.7. Coordenadas <br>
+8.8. Temas <br>
+8.9. Títulos, etiquetas y anotaciones <br>
+8.10. Exportación <br>
 
 [Slides](slides/unidad8-viz.pdf) <br>
 [Notebook](notebooks/unidad8/viz.ipynb) 
@@ -266,6 +263,9 @@ Bibliografía
 
 [James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 2014. *An Introduction to Statistical Learning: With Applications in R.* Springer Publishing Company, Incorporated.](https://www.statlearning.com/)
 
+
+[Nussbaumer, Cole. 2015. *Storytelling with data.* John Wiley & Sons, Incorporated, Hoboken, New Jersey.](https://www.storytellingwithdata.com/)
+
 Documentación
 
 [Anaconda Individual Edition](https://docs.anaconda.com/anaconda/)
@@ -291,6 +291,8 @@ Otros
 [Data visualization with ggplot2 Cheat Sheet by RStudio](cheatsheets/ggplot2.pdf)
 
 [The Python Graph Gallery](https://www.python-graph-gallery.com/)
+
+[The R Graph Gallery](https://r-graph-gallery.com/)
 
 <br>
 
@@ -341,6 +343,7 @@ Otros
 * [catalogo](datos/catalogo.csv)
 * [adult](datos/adult.data)
 * [birthdays](datos/birthdays.csv)
+* [mpg](datos/mpg.csv)
 
 <br>
 
