@@ -201,7 +201,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 9.1. Introducción a Machine Learning <br>
 9.2. Estimación de *f* <br>
 9.3. Precisión contra interpretabilidad <br>
-9.4. Aprendizaje supervizado contra no supervisado <br>
+9.4. Aprendizaje supervisado contra no supervisado <br>
 9.5. Problemas de regresión contra clasificación <br>
 9.6. Calidad del ajuste <br>
 9.7. Bias–variance tradeoff <br>
