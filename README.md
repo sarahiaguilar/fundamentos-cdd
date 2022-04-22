@@ -218,6 +218,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 10.6. Regresión logística <br>
 10.7. Máquinas de vectores de soporte
 
+[Notebook](notebooks/unidad10/preprocessing_ml.ipynb)
+
 <br>
 
 ### Unidad 11. Aprendizaje no supervisado
