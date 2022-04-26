@@ -39,6 +39,7 @@
     * Unidad 14. Sistemas de recomendación
     * Unidad 15. Otras aplicaciones de ciencia de datos y machine learning
     * Bibliografía
+* [Referencias](#referencias)
 * [Examen parcial](#examen-parcial)
 * [Conjuntos de datos](#conjuntos-de-datos)
 * [Lecturas](#lecturas)
@@ -217,6 +218,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 [Notebook](notebooks/unidad10/preprocessing_ml.ipynb)
 
+<br>
 
 ### Unidad 11. Aprendizaje supervisado
 11.1. Introducción al aprendizaje supervisado <br>
@@ -237,8 +239,10 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 12.5. K-means <br>
 12.5. Clustering jerárquico
 
+<br>
 
 ### Referencias
+***
 
 Bibliografía
 
