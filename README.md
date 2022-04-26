@@ -209,56 +209,34 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 <br>
 
-### Unidad 10. Aprendizaje supervisado
-10.1. Introducción al aprendizaje supervisado <br>
-10.2. Introducción a problemas de regresion <br>
-10.3. Regresión lineal <br>
-10.4. Regresión lineal multiple <br>
-10.5. Introducción a problemas de clasificación <br>
-10.6. Regresión logística <br>
-10.7. Máquinas de vectores de soporte
+### Unidad 10. Preprocesamiento de datos para Machine Learning
+10.1. Visualización de la distribuición de las variables continuas <br>
+10.2. Creación del conjunto de datos de entrenamiento <br>
+10.3. Búsqueda de correlaciones <br>
+10.4. Feature engineering <br>
 
 [Notebook](notebooks/unidad10/preprocessing_ml.ipynb)
 
-<br>
 
-### Unidad 11. Aprendizaje no supervisado
-11.1. Introducción al aprendizaje no supervisado <br>
-11.2. Clasificaciones <br>
-11.3. Análisis de componentes principales <br>
-11.4. Introducción a problemas de clustering <br>
-11.5. K-means <br>
-13.5. Clustering jerárquico
-
-<br>
-
-### Unidad 12. Análisis de redes 
-12.1. Introducción a teoría de grafos <br>
-12.2. Clasificaciones de grafos <br>
-12.3. Análisis de redes sociales <br>
-12.4. Centralidad
+### Unidad 11. Aprendizaje supervisado
+11.1. Introducción al aprendizaje supervisado <br>
+11.2. Introducción a problemas de regresion <br>
+11.3. Regresión lineal <br>
+11.4. Regresión lineal multiple <br>
+11.5. Introducción a problemas de clasificación <br>
+11.6. Regresión logística <br>
+11.7. Máquinas de vectores de soporte
 
 <br>
 
-### Unidad 13. Procesamiento de lenguaje natural 
-13.1. Introducción a procesamiento de lenguaje natural <br>
-13.2. Manipulación de datos <br>
-13.3. Representaciones de texto <br>
-13.4. Análisis de sentimiento
+### Unidad 12. Aprendizaje no supervisado
+12.1. Introducción al aprendizaje no supervisado <br>
+12.2. Clasificaciones <br>
+12.3. Análisis de componentes principales <br>
+12.4. Introducción a problemas de clustering <br>
+12.5. K-means <br>
+12.5. Clustering jerárquico
 
-<br>
-
-### Unidad 14. Sistemas de recomendación
-14.1. Introducción a los sistemas de recomendación <br>
-14.2. Modelación de preferencias de usuario <br>
-14.3. Evaluación de sistemas de recomendación
-
-<br>
-
-### Unidad 15. Otras aplicaciones de ciencia de datos y machine learning
-15.1. Otras aplicaciones de ciencia de datos y machine learning 
-
-<br>
 
 ### Referencias
 
