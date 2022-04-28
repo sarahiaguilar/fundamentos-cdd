@@ -221,23 +221,18 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 <br>
 
 ### Unidad 11. Aprendizaje supervisado
-11.1. Introducción al aprendizaje supervisado <br>
-11.2. Introducción a problemas de regresion <br>
-11.3. Regresión lineal <br>
-11.4. Regresión lineal multiple <br>
-11.5. Introducción a problemas de clasificación <br>
-11.6. Regresión logística <br>
-11.7. Máquinas de vectores de soporte
+11.1. Regresión lineal <br>
+11.2. Regresión lineal multiple <br>
+11.3. Regresión logística <br>
+11.4. Máquinas de vectores de soporte
 
 <br>
 
 ### Unidad 12. Aprendizaje no supervisado
-12.1. Introducción al aprendizaje no supervisado <br>
-12.2. Clasificaciones <br>
-12.3. Análisis de componentes principales <br>
-12.4. Introducción a problemas de clustering <br>
-12.5. K-means <br>
-12.5. Clustering jerárquico
+12.1. Análisis de componentes principales <br>
+12.2. Introducción a problemas de clustering <br>
+12.3. K-means <br>
+12.4. Clustering jerárquico
 
 <br>
 
