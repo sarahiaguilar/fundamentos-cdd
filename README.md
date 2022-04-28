@@ -208,6 +208,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 9.7. Bias–variance tradeoff <br>
 9.8. Introducción a scikit-learn
 
+[Slides](slides/unidad9-ml.pdf) 
+
 <br>
 
 ### Unidad 10. Preprocesamiento de datos para Machine Learning
