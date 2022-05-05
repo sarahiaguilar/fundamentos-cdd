@@ -228,7 +228,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 11.3. Regresión logística <br>
 11.4. Máquinas de vectores de soporte
 
-[Notebook](notebooks/unidad11/supervised_ml.ipynb)
+[Notebook](notebooks/unidad11/supervised_ml_to_complete.ipynb)
 
 <br>
 
