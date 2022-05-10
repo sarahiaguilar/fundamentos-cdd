@@ -176,7 +176,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 7.6. Distribución continua <br>
 7.7. Densidad kernel <br>
 
-[Notebook](notebooks/unidad7/descriptiva_to_complete.ipynb)
+[Notebook](notebooks/unidad7/descriptiva.ipynb)
 
 <br>
 
@@ -228,7 +228,7 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 11.4. Máquinas de vectores de soporte <br>
 11.5. Árboles de decisión
 
-[Notebook](notebooks/unidad11/supervised_ml_to_complete.ipynb)
+[Notebook](notebooks/unidad11/supervised_ml.ipynb)
 
 <br>
 
