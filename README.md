@@ -82,10 +82,9 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 * Asueto por Semana Santa: martes, 12 de abril 
 * Asueto por Semana Santa: jueves, 14 de abril
 * Asueto por Día de las madres: martes, 10 de mayo
-* Fecha de entrega de Proyecto final: jueves, 19 de mayo
-* Presentación de Proyecto final 1/2: jueves, 19 de mayo
-* Presentación de Proyecto final 2/2: martes, 24 de mayo
-* Última sesión: martes, 24 de mayo
+* Última sesión: jueves, 12 de mayo
+* Fecha de entrega de Proyecto final: martes, 24 de mayo antes de las 19:00 horas
+* Presentación de Proyecto final: martes, 24 de mayo
 
 <br>
 
@@ -224,9 +223,10 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 ### Unidad 11. Aprendizaje supervisado
 11.1. Regresión lineal <br>
-11.2. Regresión lineal multiple <br>
+11.2. Regresión lineal polinomial <br>
 11.3. Regresión logística <br>
-11.4. Máquinas de vectores de soporte
+11.4. Máquinas de vectores de soporte <br>
+11.5. Árboles de decisión
 
 [Notebook](notebooks/unidad11/supervised_ml_to_complete.ipynb)
 
@@ -234,7 +234,6 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 
 ### Unidad 12. Aprendizaje no supervisado
 12.1. Análisis de componentes principales <br>
-12.2. Introducción a problemas de clustering <br>
 12.3. K-means <br>
 12.4. Clustering jerárquico
 
