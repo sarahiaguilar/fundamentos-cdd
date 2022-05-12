@@ -235,7 +235,8 @@ Inducción del alumno a la ciencia de datos desde un marco teórico y práctico,
 ### Unidad 12. Aprendizaje no supervisado
 12.1. Análisis de componentes principales <br>
 12.3. K-means <br>
-12.4. Clustering jerárquico
+
+[Notebook](notebooks/unidad12/unsupervised_ml.ipynb)
 
 <br>
 
@@ -329,6 +330,10 @@ Otros
 * [adult](datos/adult.data)
 * [birthdays](datos/birthdays.csv)
 * [mpg](datos/mpg.csv)
+* [housing](datos/housing.csv)
+* [diabetes](datos/diabetes.csv)
+* [wdbc](datos/wdbc.csv)
+* [customers](datos/customers.csv)
 
 <br>
 
